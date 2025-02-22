@@ -8,7 +8,7 @@ body {
   height: 100vh;
   font-family: "Poppins", serif;
   position: relative;
-  background-image: url(public/img/img.jpg);
+  background-image: url(img/img.jpg);
   background-size: cover;
   background-position: center;
 }
